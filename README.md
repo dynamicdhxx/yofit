@@ -1,1 +1,1 @@
-# yofit
+# The-Yoga-Instruct
